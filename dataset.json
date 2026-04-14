@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in the Columbus Metro Area, OH, US",
+  "export_job_id": "a5a88042-bffd-4718-9772-7610173b570b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 649278,
+  "location_name": "Columbus, OH",
+  "location_type": "metro",
+  "repo_name": "tech-ready-restaurants-in-the-columbus-metro-area-oh-us-sample-649278",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/649278/beamstation_649278_restaurants-us-columbusoh_SAMPLE_DIST.csv",
+  "sample_pct": 8.33,
+  "sample_records": 1,
+  "sample_sha256": "45b26ef3a43543209c69d07ed080e31797f750653af9291a57bba5ff2503b78f",
+  "sample_size_bytes": 20405,
+  "total_records": 12,
+  "updated_at": "2026-04-08T03:26:14.533953+00:00"
+}
