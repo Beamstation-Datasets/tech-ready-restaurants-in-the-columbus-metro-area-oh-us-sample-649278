@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e62bde0f-99f5-422c-9873-2e14bb542f1b",
+  "export_job_id": "6dad3010-b6bb-4d2c-bc11-7cabb844c236",
   "id_short": 649278,
-  "published_at": "2026-04-19T07:35:26Z",
+  "published_at": "2026-04-23T07:21:34Z",
   "repo_name": "tech-ready-restaurants-in-the-columbus-metro-area-oh-us-sample-649278",
   "sample_asset_name": "beamstation_649278_restaurants-us-columbusoh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/649278/beamstation_649278_restaurants-us-columbusoh_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "4ac40a0c5542c5f9414133a70bddbf6e235ff065daa7a25255503b48d3f66acf",
-  "sample_size_bytes": 20399,
-  "total_records": 8
+  "sample_sha256": "fdce0760add3db9286cba24ed55fcefd83e6f0d309af19a15f94ee61c7664eb0",
+  "sample_size_bytes": 20472,
+  "total_records": 5
 }
