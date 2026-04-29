@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Columbus Metro Area, OH, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 2 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `649278` |
 | Location | Columbus, OH |
 | Category | Restaurants |
-| Full dataset size | 5 records |
-| Free sample size | 1 records (20.0%) |
-| Last export | 2026-04-22T15:40:11.294210+00:00 |
+| Full dataset size | 26 records |
+| Free sample size | 2 records (7.69%) |
+| Last export | 2026-04-29T15:41:20.902602+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-columbus-metro-area-oh-us-sample-649278/releases/download/sample-latest/beamstation_649278_restaurants-us-columbusoh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
